@@ -5,7 +5,7 @@ Materiais (ficheiros de código e de dados) do livro:
 
 por Rogério Duarte (2022)
 
-Alguns exemplos de figuras para as quais se faculta o código <tt>Julia</tt>.
+Dois exemplos de figuras para as quais se faculta o código <tt>Julia</tt>.
 
 ![alt text](/figuras/fig6sankey.png?raw=true)
 
