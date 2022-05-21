@@ -1,5 +1,5 @@
 # gest-energ-materiais
-Materiais (ficheiros de código e de dados) do livro:
+Materiais (ficheiros de código e de dados) e o ficheiro pdf do livro:
 
 **Gestão da Energia e Auditorias Energéticas**
 
