@@ -11,6 +11,6 @@ p.25: No título do capítulo [e na Tabela de Conteúdos e no cabeçalho das pá
 
 p.22: Uma tabela do Exercício resolvido 1.1 com melhor definição é apresentada de seguida [_in_ Madeira-Costa, 2007].
 
-![alt p_22_tabelaExResolv1_1.png](p_22_tabelaExResolv1_1.png "Tabela do Exercício resolvido 1.1").
+![alt p_22_tabelaExResolv1_1.png](p_22_tabelaExResolv1_1.png?raw=true "Tabela do Exercício resolvido 1.1").
 
 p.143: Na bibliografia, deve incluir-se: R. Eden, M. Posner, R. Bending, E. Crouch, J. Stanislaw. _Energy economics: Growth, resources and politics_. Cambridge University Press, 1981. 
