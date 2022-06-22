@@ -9,6 +9,8 @@ p.13: Na legenda da Figura 1.4, onde se lê [Madeira-Costa, 2007] deve ler-se [E
 
 p.25: No título do capítulo [e na Tabela de Conteúdos e no cabeçalho das páginas ímpares do capítulo 2], onde se lê _politíca_ deve ler-se _política_.
 
+p.26 § 2: Onde se lê _pertóleo_ deve ler-se _petróleo_.
+
 p.22: Uma tabela do Exercício resolvido 1.1 com melhor definição é apresentada de seguida [_in_ Madeira-Costa, 2007].
 
 ![alt p_22_tabelaExResolv1_1.png](p_22_tabelaExResolv1_1.png?raw=true "Tabela do Exercício resolvido 1.1").
