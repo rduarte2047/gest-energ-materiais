@@ -1,5 +1,5 @@
 # Errata
-(data: 2022.06.14)
+(data: 2022.06.24)
 
 p.9: Na legenda da Figura 1.1, onde se lê [Madeira-Costa, 2007] deve ler-se [Eden _et al._, 1981, p.12].
 
