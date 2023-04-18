@@ -1,25 +1,5 @@
 # Errata
-(data: 2023.01.26)
-
-p.5: ¶ 3: Onde se lê _identificadoas_ deve ler-se _identificadas_.
-
-p.9: Na legenda da Figura 1.1, onde se lê [Madeira-Costa, 2007] deve ler-se [Eden _et al._, 1981, p.12].
-
-p.12: Na legenda da Figura 1.3, onde se lê [Madeira-Costa, 2007] deve ler-se [Eden _et al._, 1981, p.33].
-
-p.13: Na legenda da Figura 1.4, onde se lê [Madeira-Costa, 2007] deve ler-se [Eden _et al._, 1981, p.36].
-
-p.15: ¶ 1: Onde se lê _uma_ deve ler-se _um_.
-
-p.16: ¶ 1: Onde se lê _"... reduções no consumo de energia."_ deve ler-se _"... reduções no consumo de energia primária ($\Delta\text{Cons.Energ.P.}$)."_.
-
-p.18: ¶ 1: Fazer uma chamada a Nota de Margem em _... renováveis(*)_ com o seguinte texto: _"Usa-se a perspetiva de análise de ciclo de vida---ver Capítulo 5---sendo a energia e recursos gastos (e.g., na produção de painéis fotovoltaicos; aerogeradores) sempre positivos."_.
-
-p.19: Tabela 1.3 Ponto 7: Onde se lê _"(não sendo, portanto eficientes...)"_ deve ler-se _"(não sendo, portanto, eficientes...)"_.
-
-p.22: Uma tabela do Exercício resolvido 1.1 com melhor definição é apresentada de seguida [_in_ Madeira-Costa, 2007].
-
-![alt p_22_tabelaExResolv1_1.png](p_22_tabelaExResolv1_1.png?raw=true "Tabela do Exercício resolvido 1.1").
+(data: 2023.04.18)
 
 p.25: No título do capítulo [e na Tabela de Conteúdos e no cabeçalho das páginas ímpares do capítulo 2], onde se lê _politíca_ deve ler-se _política_.
 
