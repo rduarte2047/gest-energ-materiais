@@ -256,7 +256,7 @@ pwd()
 # plotsankey=PlotlyJS.plot(sankey(
 #     arrangement = "snap",
 #     node = attr(
-#         label= ["R(870)", "A(70)", "B(500)", "C(250)", "D(90)", "C1(150)", "C2(100)", "D1(30)", "D2(20)", "D3(20)", "D4(20)"],
+#         label= ["R(870)", "A(70)", "B(460)", "C(250)", "D(90)", "C1(150)", "C2(100)", "D1(30)", "D2(20)", "D3(20)", "D4(20)"],
 #         x= [0.0, 0.2, 0.2, 0.2, 0.2, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
 #         y= [0.0, 0.2, 0.2, 0.2, 0.2, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
 #         pad=10,  # 10 Pixels
@@ -264,7 +264,7 @@ pwd()
 #     link = attr(
 #         source= [0, 0, 0, 0, 3, 3, 4, 4, 4, 4],
 #         target= [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
-#         value=  [70, 500, 250, 90, 150, 100, 30, 20, 20, 20]
+#         value=  [70, 460, 250, 90, 150, 100, 30, 20, 20, 20]
 #     ))
 # )
 
@@ -274,7 +274,7 @@ pwd()
 # pygui(true)
 # pygui(:qt5)
 # labels = ("B", "C", "D")
-# sizes = [500, 250, 90]
+# sizes = [460, 250, 90]
 # explode = (0.1, 0, 0)  # only "explode" the 1st slice
 # fig1, ax1 = plt.subplots()
 # ax1.pie(sizes, explode=explode, labels=labels, autopct="%1.1f%%",
